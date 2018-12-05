@@ -1,0 +1,5 @@
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Simulation\bin\Debug\Silence.Simulation.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Simulation\bin\Debug\Silence.Simulation.pdb
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Simulation\obj\Debug\Silence.Simulation.csprojResolveAssemblyReference.cache
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Simulation\obj\Debug\Silence.Simulation.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Simulation\obj\Debug\Silence.Simulation.pdb
