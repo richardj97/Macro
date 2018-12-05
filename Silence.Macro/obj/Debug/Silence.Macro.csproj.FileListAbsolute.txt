@@ -1,0 +1,18 @@
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\bin\Debug\Silence.Macro.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\bin\Debug\Silence.Macro.pdb
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\bin\Debug\Silence.Hooking.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\bin\Debug\Silence.Simulation.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\bin\Debug\Silence.Hooking.pdb
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\bin\Debug\Silence.Simulation.pdb
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\obj\Debug\Silence.Macro.csprojResolveAssemblyReference.cache
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\obj\Debug\Silence.Macro.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Macro\obj\Debug\Silence.Macro.pdb
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\bin\Debug\Silence.Macro.dll
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\bin\Debug\Silence.Macro.pdb
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\bin\Debug\Silence.Hooking.dll
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\bin\Debug\Silence.Simulation.dll
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\bin\Debug\Silence.Hooking.pdb
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\bin\Debug\Silence.Simulation.pdb
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\obj\Debug\Silence.Macro.csprojResolveAssemblyReference.cache
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\obj\Debug\Silence.Macro.dll
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Macro\obj\Debug\Silence.Macro.pdb
