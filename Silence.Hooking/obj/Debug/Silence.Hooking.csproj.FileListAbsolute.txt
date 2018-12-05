@@ -1,0 +1,10 @@
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Hooking\bin\Debug\Silence.Hooking.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Hooking\bin\Debug\Silence.Hooking.pdb
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Hooking\obj\Debug\Silence.Hooking.csprojResolveAssemblyReference.cache
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Hooking\obj\Debug\Silence.Hooking.dll
+C:\Users\RichJacobs\Desktop\silence-master\Silence.Hooking\obj\Debug\Silence.Hooking.pdb
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Hooking\bin\Debug\Silence.Hooking.dll
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Hooking\bin\Debug\Silence.Hooking.pdb
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Hooking\obj\Debug\Silence.Hooking.csprojResolveAssemblyReference.cache
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Hooking\obj\Debug\Silence.Hooking.dll
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Macro\Silence.Hooking\obj\Debug\Silence.Hooking.pdb
